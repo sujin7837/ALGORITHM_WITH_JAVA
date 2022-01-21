@@ -1,4 +1,4 @@
-package com.solved.algostudy.java;
+package 구현;
 
 import java.util.Arrays;
 import java.util.Scanner;
