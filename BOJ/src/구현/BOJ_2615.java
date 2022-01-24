@@ -55,7 +55,6 @@ public class BOJ_2615 {
 	}
 	
 	public static void main(String[] args) throws FileNotFoundException {
-//		System.setIn(new FileInputStream("Test5.txt"));
 		Scanner sc=new Scanner(System.in);
 		// 구현하세요.
 		for(int r=1;r<=19;r++) {
