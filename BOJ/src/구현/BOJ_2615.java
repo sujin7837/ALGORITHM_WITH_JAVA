@@ -63,6 +63,7 @@ public class BOJ_2615 {
 			}
 		}
 		
+		
 		// test output
 //		for(int []row:graph) {
 //			for(int c:row) {
