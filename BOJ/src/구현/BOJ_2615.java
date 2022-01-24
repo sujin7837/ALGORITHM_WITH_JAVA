@@ -71,7 +71,6 @@ public class BOJ_2615 {
 //			System.out.println();
 //		}
 		
-		
 		int result=0;
 		int resultR=0;
 		int resultC=0;
