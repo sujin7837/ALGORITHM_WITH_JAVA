@@ -39,7 +39,7 @@ public class BOJ_3048 {
 					}
 				}
 			}
-			System.out.println(arr);
+//			System.out.println(arr);
 			int idxS1=lenS1-1;
 			int idxS2=0;
 			for(int i=0;i<arr.size();i++) {
