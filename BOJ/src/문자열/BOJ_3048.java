@@ -19,7 +19,6 @@ public class BOJ_3048 {
 		s2=sc.next();
 		int lenS1=s1.length();
 		int lenS2=s2.length();
-		int biggerLen=Math.max(lenS1, lenS2);
 		
 		List<Integer> arr=new ArrayList<>();
 		for(int i=0;i<N1;i++) arr.add(1);
