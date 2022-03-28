@@ -28,7 +28,7 @@ public class BOJ_2110_공유기설치 {
 		Arrays.sort(houses);
 		
 		int result=1;
-		int start=houses[0];
+		int start=1;
 		int end=houses[N-1]-houses[0];
 		while(start<=end) {
 			int mid=(start+end)/2;
@@ -47,7 +47,7 @@ public class BOJ_2110_공유기설치 {
 		int cnt=1;
 		int now=houses[0]+mid;
 		for(int i=0;i<N;i++) {
-			if(houses[i]>now) {
+			if(houses[i]>=now) {
 				cnt++;
 				now=houses[i]+mid;
 			}
