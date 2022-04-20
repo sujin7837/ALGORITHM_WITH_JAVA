@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_17779_게리맨더링 {
+public class BOJ_17779_게리맨더링2 {
 
 	private static BufferedReader br;
 	private static StringTokenizer st;
